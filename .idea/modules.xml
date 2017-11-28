@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sfconflict-remover.iml" filepath="$PROJECT_DIR$/.idea/modules/sfconflict-remover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sfconflict-remover_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sfconflict-remover_main.iml" group="sfconflict-remover" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sfconflict-remover_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sfconflict-remover_test.iml" group="sfconflict-remover" />
+    </modules>
+  </component>
+</project>
